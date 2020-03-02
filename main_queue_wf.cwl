@@ -110,7 +110,7 @@ steps:
     run: get_backend_queue.cwl
     in:
       - id: queueids
-        default: ["9614390","9614420"]
+        default: ["9614426","9614427"]
     out:
       - id: qid
 
